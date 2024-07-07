@@ -6,7 +6,8 @@
 - 💻 I am passionate about building reliable solutions to problems
 - 🌱 I am currently learning Django and more about the product lifecycle from a Product Management perspective
 - 👩‍🔬 I had a previous career as a scientist before enrolling in a software engineering bootcamp
-- 🤩 I enjoy getting creative away from my laptop too, my hobbies include reading, running, sewing, knitting and ceramics 📚🏃🪡🧶🏺
+- 🤩 I enjoy getting creative away from my laptop. My hobbies include reading, running, sewing, knitting and ceramics 📚🏃🪡🧶🏺
+- 💬 Lets chat on [LinkedIn](www.linkedin.com/in/bex-jones)
 
 <h3> 🛠️ Languages and Tools: </h3>
 <!-- aws -->
