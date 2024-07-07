@@ -57,8 +57,7 @@
 <!-- pulumi -->
 <a href="https://www.pulumi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pulumi/pulumi-original.svg" alt="pulumi" width="40" height="40"/> </a>
 <!-- terraform -->
-<a href="https://www.terraform.io/" target="_blank"> <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
 
 <h3>📈 Stats </h3>
 
