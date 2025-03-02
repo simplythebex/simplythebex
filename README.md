@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3>I'm Bex, a Site Reliability Engineer at Dunelm</h3>
+<h3>I'm Bex, a Platform Engineer at Policy Expert</h3>
 
 <h3>😸 Some things about me:</h3>
 
